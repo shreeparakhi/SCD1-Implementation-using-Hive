@@ -1,0 +1,4 @@
+USER=root
+PASSWORD=`cat /home/saif/LFS/cohort_c9/env/sqoop.pwd`
+HOST=localhost
+SQLDAILY=/home/saif/LFS/cohort_c9/hadoopProject/prod/env/sqlDailyqueries.sql
